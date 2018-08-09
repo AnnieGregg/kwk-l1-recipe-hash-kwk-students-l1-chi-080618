@@ -15,7 +15,7 @@
 
 
 def recipe_ingredients(foo)
-  foo
+  return foo
 end
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
