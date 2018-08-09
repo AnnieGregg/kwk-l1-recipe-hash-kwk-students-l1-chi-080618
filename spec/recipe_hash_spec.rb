@@ -1,5 +1,4 @@
 require 'spec_helper.rb'
-require './recipe_hash.rb'
 
 describe 'RECIPE_HASH' do
 
