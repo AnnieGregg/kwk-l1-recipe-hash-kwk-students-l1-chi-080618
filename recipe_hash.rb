@@ -15,7 +15,6 @@
 
 
 def recipe_ingredients(perfect_10_recipe)
-  puts perfect_10_recipe
   return perfect_10_recipe
 end
 
