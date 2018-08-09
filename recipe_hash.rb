@@ -14,8 +14,9 @@
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
 
-def recipe_ingredients(foo)
-  return foo
+def recipe_ingredients(perfect_10_recipe)
+  puts perfect_10_recipe
+  return perfect_10_recipe
 end
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
